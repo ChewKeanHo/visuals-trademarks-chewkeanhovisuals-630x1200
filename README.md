@@ -1,15 +1,15 @@
-# (Holloway) Chew, Kean Ho's  Visuals Arts Service Product Trademarks Logo 630x1200 | (Holloway) Chew, Kean Ho's Visuals
+# (Holloway) Chew, Kean Ho's Creative Visuals Service Product Trademark Logo 630x1200 | (Holloway) Chew, Kean Ho's Creative Visuals
 
 [![logo](/Pictures/banner_630x1200.svg)](#)
 
-The (Holloway) Chew, Kean Ho Visuals Arts Service Product Trademarks Logo. They
-published clear trademark guideline and supplied the required material files for
-it here. The preferred version is `.svg` which has non-destructive scale up &
-down properties and can be converted into any rasterized images (e.g. `jpeg`,
-`webp`, `avif`, etc).
+The (Holloway) Chew, Kean Ho's Creative Visuals Service Product Trademark Logo.
+They published clear trademark guideline and supplied the required material
+files for it here. The preferred version is `.svg` which has non-destructive
+scale up & down properties and can be converted into any rasterized images
+(e.g. `jpeg`, `webp`, `avif`, etc).
 
-This project creates (Holloway) Chew, Kean Ho's Visuals Arts Service Product
-Trademarks Logo specifically for 630x1200 size.
+This project creates (Holloway) Chew, Kean Ho's Creative Visuals Service Product
+Trademark Logo specifically for 630x1200 size.
 
 
 
@@ -97,7 +97,7 @@ Since (Holloway) Chew, Kean Ho published its brand and trademark guideline,
 * Standard Global Trademark Laws
 * Local Trademark Laws
 
-While not specified by (Holloway) Chew, Kean Ho, please ensure the outputs are
+While not specified by (Holloway) Chew, Kean Ho; please ensure the outputs are
 also web ready. Refer:
 
 * https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps/How_to/Define_app_icons
@@ -180,7 +180,7 @@ Unless otherwise specified in writing, you **MUST** attribute back to the
 creator(s) as follows:
 
 ```
-Title: (Holloway) Chew, Kean Ho's Visuals Arts Service Product Trademarks Logo 630x1200
+Title: (Holloway) Chew, Kean Ho's Creative Visuals Service Product Trademark Logo 630x1200
 Creators: (Holloway) Chew, Kean Ho
 Contact: hello@chewkeanho.com
 SKU: chewkeanho-visuals-trademarks-chewkeanhovisuals-630x1200
